@@ -1,7 +1,6 @@
 .cowboy.plt
 .erlang.mk.packages.*
-rel
-rel-dev
+dev
 deps
 doc/man3
 doc/man7
@@ -10,5 +9,5 @@ ebin
 logs
 relx
 test/*.beam
-rel_dev
+rel
 .swp
