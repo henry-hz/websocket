@@ -16,3 +16,8 @@ $ ./_rel/websocket_example/bin/websocket_example console
 ```
 
 Then point your browser at [http://localhost:8080](http://localhost:8080).
+=======
+websocket
+=========
+
+Cowboy Websocket Bootstrap for Dev with Sync + Observer
