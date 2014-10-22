@@ -1,6 +1,7 @@
 .cowboy.plt
 .erlang.mk.packages.*
 rel
+rel-dev
 deps
 doc/man3
 doc/man7
