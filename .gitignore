@@ -10,3 +10,4 @@ logs
 relx
 test/*.beam
 rel_dev
+.swp
